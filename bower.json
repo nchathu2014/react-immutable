@@ -1,0 +1,22 @@
+{
+  "name": "react-flux-starter",
+  "description": "Flux architecture in ReactJS",
+  "main": "index.js",
+  "authors": [
+    "T.D.N.Chathuranga"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nchathu2014/react-flux-starter",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
